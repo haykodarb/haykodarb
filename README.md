@@ -1,16 +1,37 @@
-### Hi there 👋
 
-<!--
-**haykodarb/haykodarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freequently Asked Questions
+---------------------------
 
-Here are some ideas to get you started:
+**Who tf?** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Hayk Darbinyan, I'm a Mechanical Engineering student from the argentinian Patagonia. 
+
+
+**What tf?**
+
+So far:
+
+https://kassen.herokuapp.com where I monitor my own greenhouse, at least until I can start putting these things in other people's greenhouses. You can check out my greenhouse with the username and password "guest123".
+
+https://prettykittytwitty.herokuapp.com where you can sign in with Twitter and upload pictures of cats which will then be periodically tweeted from your own account.
+
+Currently working on transforming the Solar Water Heater controller I made for my own water heater into a more professional product which other people could use which I will (hopefully) release as an Android and iPhone app.
+
+
+**How tf?**
+
+Serverside development is made in Node.js, firmware for the electronics is made in the Arduino framework until I learn to code these things in C.
+Frontend design so far has been done in very basic HTML, CSS and vanilla JS, but I'm learning React (Native, as of yet) so this should improve soon.
+
+
+**Where tf?**
+
+Well, here.
+
+But if you want to contact me for questions or inquires about literally anything you can always bother me at haykodarb@gmail.com
+
+If you're an employer, please don't go to my Twitter account :)
+
+**When tf?**
+
+Every other day, mostly. Might actually try having a life once in a while when summer comes and quarantine ends.
