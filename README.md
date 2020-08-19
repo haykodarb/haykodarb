@@ -34,4 +34,5 @@ If you're an employer, please don't go to my Twitter account :)
 
 **When tf?**
 
-Every other day, mostly. Might actually try having a life once in a while when summer comes and quarantine ends.
+Ah, this joke format doesn't make sense anymore, does it? Well, every other day, mostly. 
+Might actually try having a life once in a while when summer comes and quarantine ends.
