@@ -26,7 +26,7 @@ Frontend design so far has been done in very basic HTML, CSS and vanilla JS, but
 
 **Where tf?**
 
-Well, here.
+Well, here, mostly.
 
 But if you want to contact me for questions or inquires about literally anything you can always bother me at haykodarb@gmail.com
 
@@ -34,5 +34,5 @@ If you're an employer, please don't go to my Twitter account :)
 
 **When tf?**
 
-Ah, this joke format doesn't make sense anymore, does it? Well, every other day, mostly. 
+Is this joke format still working? Ah, well, regardless, every other day mostly. 
 Might actually try having a life once in a while when summer comes and quarantine ends.
