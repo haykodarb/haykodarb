@@ -4,18 +4,18 @@ Freequently Asked Questions
 
 **Who tf?** 
 
-My name is Hayk Darbinyan, I'm a Mechanical Engineering student from the argentinian Patagonia. 
+My name is Hayk Darbinyan, I'm a Mechanical Engineering student from the argentinian Patagonia 🏕🗻🌲.
 
 
 **What tf?**
 
 So far:
 
-https://kassen.herokuapp.com where I monitor my own greenhouse, at least until I can start putting these things in other people's greenhouses. You can check out my greenhouse with the username and password "guest123".
+https://kassen.herokuapp.com where I monitor my own greenhouse, at least until I can start putting these things in other people's greenhouses. You can check out my greenhouse with the username and password "guest123" 🌷🌼🌺.
 
-https://prettykittytwitty.herokuapp.com where you can sign in with Twitter and upload pictures of cats which will then be periodically tweeted from your own account.
+https://prettykittytwitty.herokuapp.com where you can sign in with Twitter and upload pictures of cats (exclusively) which will then be periodically tweeted from your own account 🐱🐱🐱. 
 
-Currently working on transforming the Solar Water Heater controller I made for my own water heater into a more professional product which other people could use which I will (hopefully) release as an Android and iPhone app.
+Currently working on transforming the Solar Water Heater controller I made for my own water heater into a more professional product which other people could use which I will (hopefully) release as an Android and iPhone app 💧🌞🌈.
 
 
 **How tf?**
