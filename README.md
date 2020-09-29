@@ -22,7 +22,7 @@ Currently working on transforming the Solar Water Heater controller I made for m
 
 Learnt NodeJS serverside Javascript in the last couple of months, have also been working with the  esp8266 microcontroller for IoT development.
 
-Frontend design so far has been done in very basic HTML, CSS and vanilla JS, but I'm learning React (Native, especifically) so this should improve soon.
+Frontend design so far has been done in very basic HTML, CSS and vanilla JS, but I'm halfway through learning React so this should improve soon.
 
 
 **Where?**
