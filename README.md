@@ -31,8 +31,6 @@ Well, here, mostly.
 
 But if you want to contact me for questions or inquires about literally anything you can always bother me at haykodarb@gmail.com
 
-If you're an employer, please don't go to my Twitter account :)
-
 **When?**
 
 Is this format still working? Ah, well, regardless, every other day mostly. 
