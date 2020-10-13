@@ -13,7 +13,7 @@ So far:
 
 Kassen - https://kassen.herokuapp.com where I monitor my own greenhouse, at least until I can start putting these things in other people's greenhouses. You can check out my greenhouse with the username and password "guest123" 🌷🌼🌺.
 
-Pretty Kitty Twitty - https://prettykittytwitty.herokuapp.com where you can sign in with Twitter and upload pictures of cats (exclusively) which will then be periodically tweeted from your own account 🐱🐱🐱. The website works well and you can upload pictures, but the cronjob for tweeting them out is disabled. 
+Pretty Kitty Twitty - https://prettykittytwitty.herokuapp.com where you can sign in with Twitter and upload pictures of cats (exclusively) which will then be periodically tweeted from your own account 🐱🐱🐱. 
 
 Currently working on transforming the Solar Water Heater controller I made for my own water heater into a more professional product which other people could use which I will (hopefully) release as an Android and iPhone app 💧🌞🌈.
 
